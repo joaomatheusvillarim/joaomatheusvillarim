@@ -2,7 +2,6 @@
 - Tenho 18 anos
 - Faço ciência da computação na UFCG
 - Sei programar em Python 3 e adoro matemática
-- Atualmente estou aprendendo desenvolvimento web no curso da Danki Code
 - No futuro quero ser professor
 
 <!---
