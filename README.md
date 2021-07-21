@@ -1,5 +1,5 @@
 - Oi, meu nome é João Matheus
-- Tenho 17 anos
+- Tenho 18 anos
 - Faço ciência da computação na UFCG
 - Sei programar em Python 3 e adoro matemática
 - Atualmente estou aprendendo desenvolvimento web no curso da Danki Code
