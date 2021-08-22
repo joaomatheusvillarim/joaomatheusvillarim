@@ -1,8 +1,8 @@
-- Oi, meu nome é João Matheus
-- Tenho 18 anos
-- Faço ciência da computação na UFCG
-- Sei programar em Python 3 e adoro matemática
-- No futuro quero ser professor
+- Hi, my name is João Matheus
+- I'm 18 years old
+- I'm an undergraduate CS student at UFCG
+- I know how to code on Python 3 and I love math
+- I'm interested on scientific computing and/or being a college professor
 
 <!---
 joaomatheusvillarim/joaomatheusvillarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
