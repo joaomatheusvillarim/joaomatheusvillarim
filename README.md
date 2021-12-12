@@ -3,7 +3,7 @@
 - I'm an undergraduate CS student at UFCG
 - I know how to code on Python 3 and am currently learning OOP
 - I love math and am very invested about it
-- I'm interested on scientific computing and/or being a college professor
+- I'm interested on scientific computing
 
 <!---
 joaomatheusvillarim/joaomatheusvillarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
