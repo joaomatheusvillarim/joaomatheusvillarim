@@ -1,5 +1,5 @@
 - Hi, my name is João Matheus
-- I'm 18 years old
+- I'm 19 years old
 - I'm an undergraduate CS student at UFCG
 - I know how to code on Python 3 and am currently learning Java and OOP
 - I love math and am very invested about it
