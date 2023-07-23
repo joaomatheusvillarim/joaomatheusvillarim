@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Matheus</h1>
-<h3 align="center">A 20yo CS sophomore from Brazil</h3>
+<h3 align="center">I'm a compsci sophomore from Brazil</h3>
 
-<h3 align="left">🔭 I’m currently studying Front-End Web Development</h3>
+<h3 align="left">🔭 I’m currently studying Software Testing, Data Analysis and Back-end Web Development</h3>
 <h3 align="left">:books: I go to college at Universidade Federal de Campina Grande</h3>
 <h3 align="left">:computer: I love coding in Java and Python</h3>
-<h3 align="left">💬 Native Portuguese and fluent English speaker</h3>
+<h3 align="left">💬 Fluent English and native Portuguese speakerr</h3>
 <h3 align="left">:pencil: Huge math nerd</h3>
 <a href="https://www.linkedin.com/in/joaomatheusvillarim/" target="_blank"> <h3 align="left">:briefcase: Check out my Linkedin profile</h3> </a>
 <p align="left">
