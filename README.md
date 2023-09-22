@@ -19,5 +19,4 @@
 	<img src="/icons/R-Dark.svg" height="100">
 	<img src="/icons/Git.svg" height="100">
 	<img src="/icons/Markdown-Dark.svg" height="100">
-	<img src="/icons/VIM-Dark.svg" height="100">
 </div>
