@@ -3,6 +3,8 @@
 <h3 align="center">I'm a computer science sophomore from Brazil</h3>
 </div>
 
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <div align="left">
 	<h3>
 	🔭 I’m currently studying Data Structures, Graph Theory and Front-End Web Development <br>
