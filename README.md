@@ -12,6 +12,7 @@
 - Graph Theory with Python and NetworkX<br>
 - Statistics with R programming language<br>
 
+<div align="left"> 
 <br>
 <a href="https://www.linkedin.com/in/joaomatheusvillarim/" target="_blank"> Check out my Linkedin profile</a> <br>
 <img src="/icons/Java-Dark.svg" height="100">
@@ -22,3 +23,4 @@
 <img src="/icons/R-Dark.svg" height="100">
 <img src="/icons/Git.svg" height="100">
 <img src="/icons/Markdown-Dark.svg" height="100">
+</div>
