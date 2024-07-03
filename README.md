@@ -1,25 +1,24 @@
 <h1 align="center">João Matheus Villarim</h1>
 
 <h4>About me:</h4>
-My name is João Matheus Villarim, I am 20 years old, and I am a transsexual man.
+My name is João Matheus Villarim, I am 21 years old, and I am a transsexual man.
 I go to Universidade Federal de Campina Grande (UFCG) where I major in Computer
 Science, currently in my junior year. I've started to like math and computers as 
 a little kid and to this day, those are still some of the things I love the most. 
-After I graduate, I plan on pursuing a master's degree on data science and becoming
-a professor in the university I attend.
+After I graduate, I plan on pursuing a master's degree on software engineering and
+becoming a professor in the university I attend.
 
 <h4>Currently working with:</h4>
 Full-Stack Web Development for Fasteng.app. I have been using TypeScript, Nest.JS
-and MongoDB. Data Structures and Algorithms Tutoring for UFCG.
+and MongoDB. Data Structures and Algorithms Tutoring for UFCG. Personal project
+named "GroceryTracker" using Java + Spring Boot and JavaScript + React.
 
 <h4>Currently learning:</h4>
-- Programming Language Paradigms, specially the funcional and logical paradigms
-with Haskell and Prolog, respectively; </br>
-- Software Project Patterns with Java and Spring Boot; </br>
-- Databases with Oracle, MongoDB, and MySQL; </br>
-- Human-Computer Interaction; </br>
-- Competitive Programming Practice with Python, Java, TypeScript, Haskell and C++; </br>
-- Linux Usage and Administration. </br>
+- Software Engineering
+- Computer Architecture and Organization
+- Theory of Computation
+- Computer Networks
+- Web Programming
 
 </br>
 <div align="left"> 
